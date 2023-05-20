@@ -5,6 +5,7 @@
 ## 💻 Projeto
 
 Essa é uma adaptação do projeto Web Resposivo de uma cápsula do tempo feita durante o NLW da Rocketseat. No qual criei uma linha do tempo com meus canais favoritos do YouTube.
+## [Visualize a Página do Projeto Aqui](https://dairussi.github.io/nlw-spacetime/)
 
 ## 🚀 Tecnologias
 
